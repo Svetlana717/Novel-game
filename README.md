@@ -1,4 +1,4 @@
-#   ** The Golden Academy **
+#**TheGoldenAcademy**
 This is a unique story telling about the adventures of young girl at the elite university "Golden Academy", full of secrets and mysteries.
 
 *Instruction*
