@@ -1,7 +1,7 @@
 #   ** The Golden Academy **
-This is a unique story short story telling about the adventures of young girls at the elite university "Golden Academy", full of secrets and mysteries.
+This is a unique story telling about the adventures of young girl at the elite university "Golden Academy", full of secrets and mysteries.
 
-* Instruction *
+*Instruction*
 1. Management is done using a computer mouse.
 1. After reading one slide, to go to the next, you need to click on the playing field or the selection button.
 1. At the beginning of the game, you need to choose a name for your heroine.
